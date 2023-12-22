@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JDiogoRiveroFreitas
+- 👀 I’m interested in Mechanical Engineering and AI
+- 🌱 I’m currently learning AI
+- 💞️ I'm developing medical devices
+- 📫 How to reach me: jdiogo.rivero@gmail.com or jose.rivero@ulpgc.es
